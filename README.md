@@ -42,7 +42,7 @@
     
 ---
 
-# sql_dm_sl
+# A1_SL3
 
 ``` sql
 #Aufgabe 1.1
