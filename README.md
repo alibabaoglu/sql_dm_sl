@@ -1,6 +1,6 @@
 # sql_dm_sl
 
-``` sql
+``` psql
 #Aufgabe 1.1
 select deptno, sal 
 from emp 
